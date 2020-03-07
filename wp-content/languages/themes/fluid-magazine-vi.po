@@ -1,0 +1,716 @@
+# Translation of Themes - Fluid Magazine in Vietnamese
+# This file is distributed under the same license as the Themes - Fluid Magazine package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-11-29 06:46:39+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: vi_VN\n"
+"Project-Id-Version: Themes - Fluid Magazine\n"
+
+#. Description of the plugin/theme
+msgid "Fluid Magazine is a responsive magazine WordPress theme that will help you create a gorgeous WordPress site that your visitors will adore.  It is suitable for news, newspaper, magazine, food, technology, viral content websites. This beautifully designed theme is loaded with awesome features that you can exploit in building a unique magazine theme. Fluid Magazine has completely fluid responsive layout design that would adapt to various screen sizes and make it look stunning on every device. The theme is SEO friendly with optimized codes, which make it easy for your site to rank on Google and other search engines. Fluid Magazine comes with several features to make user-friendly, interactive and visually stunning website. It has optimally placed Advertisement space that complements the theme design. It has four footer areas and a right sidebar and includes four custom widgets for the recent posts, popular posts, social media and the featured post. The theme is rigorously tested and optimized for speed and faster page load time and has a secure and clean code. The theme is also translation ready. Designed with visitor engagement in mind, Fluid Magazine helps you to easily and intuitively create appealing online Magazine websites. Check the demo at https://raratheme.com/preview/fluid-magazine/, documentation at https://raratheme.com/documentation/fluid-magazine/  and get support at https://raratheme.com/support-ticket."
+msgstr "Fluid Magazine là một giao diện đẹp dành cho chuyên ngành tạp chí và báo chí giúp khách truy cập hài lòng khi bạn tạo ra một trang web tuyệt vời. Nó phù hợp với tin tức, báo, tạp chí, thực phẩm, công nghệ, các trang web nội dung liên quan. Giao diện được thiết kế đẹp được tích hợp với các tính năng nổi bật giúp bạn thiết kế một giao diện tạp chí độc đáo. Fluid Magazine được thiết kế tuyệt đẹp trên mọi thiết bị với bố cục toàn toàn phù hợp với mọi loại giao diện và kích thước màn hình khác nhau. Giao diện được tính hợp SEO thân thiện cùng với tối ưu code, để cho trang web của bạn dễ dàng xếp hàng trên Google và các công cụ tìm kiếm khác. Fluid Magazine Giao diện rất thân thiện với người dùng và trên các thiết bị di động, máy tính bảng giúp giang web của bạn mang một diện mạo mới vẻ đẹp mới. Giao diện được bổ sung tính năng tối ưu hóa không gian Quảng Cáo. Có bốn khu vực của footer, thanh sidebar được đặt phía bên phải và bao gồm bốn khu vực widgets tùy chỉnh cho các bài đăng gần đây, các bài đăng phổ biến, phương tiện truyền thông xã hội và bài đăng nổi bật. Mã code của giao diện được kiểm tra nghiêm ngặt để tối ưu hóa tốc độ để thời gian tải trang nhanh hơn và an toàn hơn. Các bản dịch của giao diện cũng được chuẩn bị. Được thiết kế với sự tham gia của khách truy cập, Fluid Magazine giúp bạn dễ dàng tạo ra những trang webs đẹp, hấp dẫn và trực quan. Kiểm tra các bản demo tại https://raratheme.com/preview/fluid-magazine/, tài liệu tại https://raratheme.com/documentation/fluid-magazine/ và Nhận hỗ trợ tại https://raratheme.com/support-ticket."
+
+#. Theme Name of the plugin/theme
+msgid "Fluid Magazine"
+msgstr "Fluid Magazine"
+
+#: inc/widgets/widget-social-links.php:125
+msgid "Goolge Plus"
+msgstr "Goolge Plus"
+
+#: inc/customizer/social.php:197 inc/extras.php:182
+#: inc/widgets/widget-social-links.php:78
+#: inc/widgets/widget-social-links.php:160
+msgid "Xing"
+msgstr "Xing"
+
+#: inc/customizer/social.php:179 inc/extras.php:180
+#: inc/widgets/widget-social-links.php:76
+#: inc/widgets/widget-social-links.php:155
+msgid "VK"
+msgstr "VK"
+
+#: inc/customizer/social.php:161 inc/extras.php:178
+#: inc/widgets/widget-social-links.php:74
+#: inc/widgets/widget-social-links.php:150
+msgid "OK"
+msgstr "OK"
+
+#: inc/customizer/home/featured.php:55
+msgid "Enable Featured Posts in archives."
+msgstr "Cho phép Các bài đăng nổi bật trong lưu trữ ."
+
+#: inc/customizer/general.php:54
+msgid "Place enter read more text here."
+msgstr "Địa điểm nhập đọc thêm văn bản ở đây."
+
+#: inc/customizer/general.php:14
+msgid "General Setting"
+msgstr "Cài đặt chung"
+
+#: inc/info.php:24
+msgid ""
+"<strong>Instruction for how to up Home Page in Fluid Magazine Theme</strong><br/>1. Go to Pages and create a new page (Title can be anything. For example, Home )<br/>\n"
+"2. In right column and under Page Attributes, choose \"Home Page\" template<br/>\n"
+"3. Click on Publish<br/>\n"
+"4. Go to Appearance-> Customize -> Default Settings -> Static Front Page<br/>\n"
+"5. Select A static page<br/>\n"
+"6. Under Front Page, select the page that you created in the step 1<br/>\n"
+"7. Save changes"
+msgstr ""
+"<strong>Hướng dẫn làm thế nào để cập nhật trang chủ trong giao diện Fluid Magazine</strong><br/>1. Chuyển đến Trang và tạo một trang mới (Tiêu đề có thể là bất cứ thứ gì, ví dụ, Trang chủ)<br/>\n"
+"2. Trong cột bên phải và trong Thuộc tính trang, chọn mẫu \"Trang chủ\"<br/>\n"
+"3. Nhấp vào Xuất bản<br/>\n"
+"4. Chuyển đến Xuất hiện -> Tùy chỉnh -> Cài đặt Mặc định -> Trang tĩnh<br/>\n"
+"5. Chọn Một trang tĩnh<br/>\n"
+"6. Dưới Trang Chủ, chọn trang mà bạn đã tạo trong bước 1<br/>\n"
+"7. Lưu thay đổi"
+
+#: inc/customizer/home/featured.php:75
+msgid "We recommend to have 4 or 8 posts in the select category, and each featured images to be at least of size 1291px*960px for consistent design."
+msgstr "Chúng tôi khuyên bạn nên có 4 hoặc 8 bài viết trong danh mục được chọn và mỗi hình ảnh có tính năng ít nhất phải có kích thước 1291px*960px để có thiết kế nhất quán."
+
+#: inc/woocommerce-functions.php:39
+msgid "Sidebar displaying only in woocommerce pages."
+msgstr "Thanh bên hiển thị chỉ trong các trang woocommerce."
+
+#: inc/woocommerce-functions.php:37
+msgid "Shop Sidebar"
+msgstr "Sidebar cửa hàng"
+
+#: inc/widgets/widget-social-links.php:27
+msgid "A Social Networks Widget"
+msgstr "Widget Mạng xã hội"
+
+#: inc/widgets/widget-social-links.php:26
+msgid "RARA: Social Networks"
+msgstr "RARA: Mạng xã hội"
+
+#: inc/info.php:75
+msgid "About Fluid Magazine"
+msgstr "Giới thiệu Fluid Magazine"
+
+#: inc/info.php:71
+msgid "More WordPress Themes"
+msgstr "Thêm giao diện WordPress"
+
+#: inc/info.php:70
+msgid "Rate this theme"
+msgstr "Đánh giá giao diện này"
+
+#: inc/info.php:69
+msgid "Support ticket"
+msgstr "Nhận Hỗ trợ"
+
+#: inc/info.php:68
+msgid "Theme info"
+msgstr "Thông tin chủ đề"
+
+#: inc/info.php:67
+msgid "View documentation"
+msgstr "Xem tài liệu"
+
+#: inc/info.php:66 inc/info.php:67 inc/info.php:68 inc/info.php:69
+#: inc/info.php:70 inc/info.php:71
+msgid "here"
+msgstr "đây"
+
+#: inc/info.php:66
+msgid "View demo"
+msgstr "Xem demo"
+
+#: inc/info.php:65
+msgid "Need help?"
+msgstr "Cần giúp đỡ?"
+
+#: inc/info.php:55
+msgid "Information Links"
+msgstr "Liên kết thông tin"
+
+#: inc/extras.php:338
+msgid "Next"
+msgstr "Kế tiếp"
+
+#: inc/extras.php:337
+msgid "Prev"
+msgstr "Trước đó"
+
+#. Template Name of the plugin/theme
+msgid "Home Page"
+msgstr "Trang chủ"
+
+#. translators: %s: Name of current post.
+#: template-parts/content.php:27
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Tiếp tục đọc %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: template-parts/content-none.php:31
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Có vẻ như chúng tôi không thể tìm thấy những gì bạn đang tìm kiếm. Có lẽ tìm kiếm có thể giúp đỡ."
+
+#: template-parts/content-none.php:25
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Rất tiếc, không có nội dung nào khớp với yêu cầu tìm kiếm của bạn. Hãy thử lại với các từ khóa khác."
+
+#: template-parts/content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Bạn đã sẵn sàng đăng bài viết đầu tiên chưa? <a href=\"%1$s\">Hãy bắt đầu tại đây</a>."
+
+#: template-parts/content-none.php:16
+msgid "Nothing Found"
+msgstr "Không có kết quả"
+
+#: template-parts/content-archive.php:29 template-parts/content-page.php:27
+#: template-parts/content.php:32
+msgid "Pages:"
+msgstr "Trang:"
+
+#: inc/widgets/widgets.php:39
+msgid "Add footer four widgets."
+msgstr "Thêm 4 widgets vào cuối trang"
+
+#: inc/widgets/widgets.php:37
+msgid "Footer Four"
+msgstr "Cuối trang Bốn"
+
+#: inc/widgets/widgets.php:34
+msgid "Add footer three widgets."
+msgstr "Thêm 3 widgets vào cuối trang"
+
+#: inc/widgets/widgets.php:32
+msgid "Footer Three"
+msgstr "Cuối trang Ba"
+
+#: inc/widgets/widgets.php:29
+msgid "Add footer two widgets."
+msgstr "Thêm 2 widgets vào cuối trang"
+
+#: inc/widgets/widgets.php:27
+msgid "Footer Two"
+msgstr "Cuối trang hai"
+
+#: inc/widgets/widgets.php:24
+msgid "Add footer one widgets."
+msgstr "Thêm 1 widgets vào cuối trang"
+
+#: inc/widgets/widgets.php:22
+msgid "Footer One"
+msgstr "Cuối trang đầu tiên"
+
+#: inc/widgets/widgets.php:19
+msgid "Add widgets here."
+msgstr "Thêm widget ở đây."
+
+#: inc/widgets/widgets.php:17
+msgid "Right Sidebar"
+msgstr "Sidebar bên phải"
+
+#: inc/widgets/widget-social-links.php:66
+msgid "Linkedin"
+msgstr "Linkedin"
+
+#: inc/widgets/widget-slider-post.php:174
+msgid "Show Post content"
+msgstr "Hiển thị nội dung đăng"
+
+#: inc/widgets/widget-slider-post.php:170
+msgid "Show Post Caption"
+msgstr "Hiển thị phụ đề bài đăng"
+
+#: inc/widgets/widget-slider-post.php:28
+msgid "A Slider Post Widget"
+msgstr "Một Widget Bài đăng Slider"
+
+#: inc/widgets/widget-slider-post.php:27
+msgid "RARA: Slider Post"
+msgstr "RARA: Slider Post"
+
+#: inc/widgets/widget-recent-post.php:28
+msgid "A Recent Post Widget"
+msgstr "Widget bài viết gần đây"
+
+#: inc/widgets/widget-recent-post.php:27
+msgid "RARA: Recent Post"
+msgstr "RARA: Bài viết gần đây"
+
+#: inc/widgets/widget-popular-post.php:125
+#: inc/widgets/widget-recent-post.php:126
+msgid "Show Post Date"
+msgstr "Hiển thị ngày bài viết"
+
+#: inc/widgets/widget-popular-post.php:114
+#: inc/widgets/widget-recent-post.php:115
+msgid "Number of Posts"
+msgstr "Số bài viết"
+
+#: inc/widgets/widget-popular-post.php:109
+#: inc/widgets/widget-recent-post.php:110
+#: inc/widgets/widget-slider-post.php:137
+#: inc/widgets/widget-social-links.php:110
+msgid "Title"
+msgstr "Tiêu đề"
+
+#: inc/widgets/widget-popular-post.php:27
+msgid "A Popular Post Widget"
+msgstr "Widget bài viết phổ biến"
+
+#: inc/widgets/widget-popular-post.php:26
+msgid "RARA: Popular Post"
+msgstr "RARA: Bài viết phổ biến"
+
+#: inc/widgets/widget-featured-post.php:120
+#: inc/widgets/widget-popular-post.php:120
+#: inc/widgets/widget-recent-post.php:121
+msgid "Show Post Thumbnail"
+msgstr "Hiển thị hình thu nhỏ bài viết"
+
+#: inc/customizer/general.php:52 inc/widgets/widget-featured-post.php:114
+msgid "Read More Text"
+msgstr "Đọc thêm Văn bản"
+
+#: inc/widgets/widget-featured-post.php:104
+#: inc/widgets/widget-slider-post.php:142
+#: inc/widgets/widget-slider-post.php:151
+#: inc/widgets/widget-slider-post.php:160
+msgid "Posts"
+msgstr "Bài viết"
+
+#: inc/widgets/widget-featured-post.php:87
+#: inc/widgets/widget-slider-post.php:113
+msgid "&mdash;Choose&mdash;"
+msgstr "& mdash; Chọn& mdash;"
+
+#: inc/widgets/widget-featured-post.php:29
+msgid "A Featured Post Widget"
+msgstr "Widget bài viết nổi bật"
+
+#: inc/widgets/widget-featured-post.php:28
+msgid "RARA: Featured Post"
+msgstr "RARA: Bài viết nổi bật"
+
+#: inc/template-functions.php:574
+msgid "Powered by %s"
+msgstr "Được hỗ trợ bởi %s"
+
+#: inc/template-functions.php:573
+msgid "Fluid Magazine by Rara Theme"
+msgstr "Fluid Magazine by Rara Theme"
+
+#: inc/template-functions.php:571
+msgid "&copy; Copyright "
+msgstr "&Sao chép; Bản quyền "
+
+#: inc/template-functions.php:231
+msgid "404 - Page not Found"
+msgstr "404 - Trang không tìm thấy"
+
+#: inc/template-functions.php:229
+msgid "Search Results for \"%s\""
+msgstr "Tìm kiếm kết quả cho \"%s\""
+
+#: inc/metabox.php:40
+msgid "Choose Sidebar Template"
+msgstr "Chọn Mẫu Sidebar"
+
+#: inc/metabox.php:28
+msgid "No sidebar"
+msgstr "Không có thanh bên"
+
+#: inc/metabox.php:23
+msgid "Right sidebar (default)"
+msgstr "Thanh bên phải (mặc định)"
+
+#: inc/metabox.php:13
+msgid "Sidebar Layout"
+msgstr "Bố cục Sidebar"
+
+#: inc/extras.php:542
+msgid "Latest Blog"
+msgstr "Blog mới nhất"
+
+#: inc/extras.php:510
+msgid "Posted by"
+msgstr "Gửi bởi"
+
+#: inc/extras.php:442
+msgid "Go Down"
+msgstr "Đi xuống"
+
+#: inc/customizer/general.php:44 inc/extras.php:401 inc/extras.php:537
+#: inc/widgets/widget-featured-post.php:99
+#: inc/widgets/widget-featured-post.php:139 template-parts/content-blog.php:10
+#: template-parts/content-search.php:32
+msgid "Read More"
+msgstr "Đọc tiếp"
+
+#: inc/extras.php:339
+msgid "Page"
+msgstr "Trang"
+
+#: inc/extras.php:313
+msgid "404 Error - Page not Found"
+msgstr "Lỗi 404 - Không tìm thấy trang"
+
+#: inc/extras.php:271
+msgid "Page %s"
+msgstr "Trang %s"
+
+#: inc/extras.php:226
+msgid "d"
+msgstr "d"
+
+#: inc/extras.php:225 inc/extras.php:230
+msgid "F"
+msgstr "F"
+
+#: inc/extras.php:225
+msgid "m"
+msgstr "m"
+
+#: inc/extras.php:224 inc/extras.php:225 inc/extras.php:229 inc/extras.php:233
+msgid "Y"
+msgstr "Y"
+
+#: inc/extras.php:221
+msgid "Search Results for \""
+msgstr "Tìm kiếm kết quả cho \""
+
+#. translators: %s: Name of current post
+#: inc/extras.php:91 template-parts/content-page.php:38
+msgid "Edit %s"
+msgstr "Sửa %s"
+
+#. translators: %s: post title
+#: inc/extras.php:30
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Để lại bình luận<span class=\"screen-reader-text\"> on %s</span>"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/extras.php:23
+msgctxt "post author"
+msgid "By %s"
+msgstr "Bởi %s"
+
+#: inc/customizer/social.php:142 inc/extras.php:176
+#: inc/widgets/widget-social-links.php:72
+#: inc/widgets/widget-social-links.php:145
+msgid "YouTube"
+msgstr "YouTube"
+
+#: inc/customizer/social.php:124 inc/extras.php:174
+#: inc/widgets/widget-social-links.php:70
+#: inc/widgets/widget-social-links.php:140
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc/customizer/social.php:106 inc/extras.php:172
+#: inc/widgets/widget-social-links.php:68
+#: inc/widgets/widget-social-links.php:135
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: inc/customizer/social.php:88 inc/extras.php:170
+#: inc/widgets/widget-social-links.php:130
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: inc/customizer/social.php:70 inc/extras.php:168
+#: inc/widgets/widget-social-links.php:64
+msgid "Google Plus"
+msgstr "Google Plus"
+
+#: inc/customizer/social.php:52 inc/extras.php:166
+#: inc/widgets/widget-social-links.php:62
+#: inc/widgets/widget-social-links.php:120
+msgid "Twitter"
+msgstr "Twitter"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/customizer/social.php:33 inc/extras.php:164
+#: inc/widgets/widget-social-links.php:60
+#: inc/widgets/widget-social-links.php:115
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/customizer/social.php:15
+msgid "Leave blank if you do not want to show the social link."
+msgstr "Để trống nếu bạn không muốn hiển thị liên kết xã hội."
+
+#: inc/customizer/social.php:14
+msgid "Social Settings"
+msgstr "Thiết lập mạng xã hội"
+
+#: inc/customizer/home.php:17
+msgid "Customize Home Page Settings"
+msgstr "Tùy chỉnh Cài đặt Trang chủ"
+
+#: inc/customizer/home.php:16
+msgid "Home Page Settings"
+msgstr "Cài đặt Trang chủ"
+
+#: inc/customizer/home/stories.php:71
+msgid "Select Top Stories Category"
+msgstr "Chọn danh mục câu chuyện hàng đầu"
+
+#: inc/customizer/home/stories.php:52
+msgid "Top Stories Section Title"
+msgstr "Tiêu đề mục câu chuyện hàng đầu"
+
+#: inc/customizer/home/stories.php:44
+msgid "Top Stories"
+msgstr "Các câu chuyện hàng đầu"
+
+#: inc/customizer/home/stories.php:34
+msgid "Enable Top Stories Section"
+msgstr "Bật phần Câu chuyện Đầu trang"
+
+#: inc/customizer/home/stories.php:16
+msgid "Top Stories Section"
+msgstr "Phần câu chuyện hàng đầu"
+
+#: inc/customizer/home/slider.php:164
+msgid "Choose Slider Category"
+msgstr "Chọn danh mục Trình chiếu"
+
+#: inc/customizer/home/slider.php:146
+msgid "Readmore Text"
+msgstr "Đọc thêm Văn bản"
+
+#: inc/customizer/home/slider.php:138
+msgid "Learn More"
+msgstr "Tìm hiểu thêm"
+
+#: inc/customizer/home/slider.php:128
+msgid "Animation Speed"
+msgstr "Tốc độ Linh hoạt"
+
+#: inc/customizer/home/slider.php:110
+msgid "Slider Speed"
+msgstr "Tốc độ Trình chiếu"
+
+#: inc/customizer/home/slider.php:92
+msgid "slide"
+msgstr "trượt"
+
+#: inc/customizer/home/slider.php:91
+msgid "fade"
+msgstr "phai màu"
+
+#: inc/customizer/home/slider.php:87
+msgid "Choose Slider Animation"
+msgstr "Chọn Slider linh hoạt"
+
+#: inc/customizer/home/slider.php:69
+msgid "Enable Slider Caption"
+msgstr "Bật Phụ đề Slider"
+
+#: inc/customizer/home/slider.php:51
+msgid "Enable Slider Auto Transition"
+msgstr "Bật tự động chuyển trình chiếu"
+
+#: inc/customizer/home/slider.php:33
+msgid "Enable Home Page Slider"
+msgstr "Kích hoạt tính năng Slider Trang chủ"
+
+#: inc/customizer/home/slider.php:15
+msgid "Slider Settings"
+msgstr "Cài đặt thanh trượt"
+
+#: inc/customizer/home/featured.php:73
+msgid "Select Category"
+msgstr "Chọn thể loại"
+
+#: inc/customizer/home/featured.php:37
+msgid "Select category for featured section."
+msgstr "Chọn danh mục cho phần nổi bật."
+
+#: inc/customizer/home/featured.php:36
+msgid "Enable Featured Post Section"
+msgstr "Bật mục bài viết nổi bật"
+
+#: inc/customizer/home/featured.php:18
+msgid "Featured Post Section"
+msgstr "Mục bài viết nổi bật"
+
+#: inc/customizer/home/category.php:74
+msgid "If blog category is not selected, the latest posts will be displayed."
+msgstr "Nếu danh mục blog  không được chọn, các bài đăng mới nhất sẽ được hiển thị."
+
+#: inc/customizer/home/category.php:72
+msgid "Select Latest Blog Category"
+msgstr "Chọn Danh mục blog mới nhất"
+
+#: inc/customizer/home/category.php:53
+msgid "Select Second Category"
+msgstr "Chọn loại thứ hai"
+
+#: inc/customizer/home/category.php:34
+msgid "Select First Category"
+msgstr "Chọn Danh mục đầu tiên"
+
+#: inc/customizer/home/category.php:16
+msgid "Category Post Section"
+msgstr "Danh mục bài viết"
+
+#: inc/customizer/general.php:33
+msgid "Check to enable Search Form in header."
+msgstr "Chọn để bật Mẫu tìm kiếm trong tiêu đề ."
+
+#: inc/customizer/general.php:32
+msgid "Enable Search Form"
+msgstr "Bật Biểu mẫu Tìm kiếm"
+
+#: inc/customizer/default.php:18
+msgid "Default section provided by WordPress customizer."
+msgstr "Phần mặc định được cung cấp bởi WordPress customizer."
+
+#: inc/customizer/default.php:17
+msgid "Default Settings"
+msgstr "Thiết lập mặc định"
+
+#: inc/customizer/customizer.php:39
+msgid "Choose Category"
+msgstr "Chọn Thể Loại"
+
+#: inc/customizer/customizer.php:22
+msgid "Choose Post"
+msgstr "Chọn bài viết"
+
+#: inc/customizer/custom.php:34
+msgid "Put your custom CSS"
+msgstr "Đặt CSS tuỳ chỉnh của bạn"
+
+#: inc/customizer/custom.php:32
+msgid "Custom CSS"
+msgstr "CSS tùy chỉnh"
+
+#: inc/customizer/custom.php:14
+msgid "Custom CSS Settings"
+msgstr "Cài đặt CSS Tuỳ chỉnh"
+
+#: inc/customizer/breadcrumb.php:86
+msgid "Breadcrumb Separator"
+msgstr "Đường dẫn Phân cách"
+
+#: inc/customizer/breadcrumb.php:68
+msgid "Breadcrumb Home Text"
+msgstr "Đường dẫn Trang chủ Tiêu đề"
+
+#: inc/customizer/breadcrumb.php:60 inc/extras.php:198
+msgid "Home"
+msgstr "Trang Chủ"
+
+#: inc/customizer/breadcrumb.php:50
+msgid "Show current"
+msgstr "Hiển thị hiện tại"
+
+#: inc/customizer/breadcrumb.php:32
+msgid "Enable Breadcrumb"
+msgstr "Kích hoạt tính năng Đường dẫn"
+
+#: inc/customizer/breadcrumb.php:14
+msgid "Breadcrumb Settings"
+msgstr "Cài đặt Đường dẫn"
+
+#: inc/customizer/advertisement.php:92
+msgid "Header AD Link"
+msgstr "Liên kết AD"
+
+#: inc/customizer/advertisement.php:72
+msgid "Upload Header Advertisement"
+msgstr "Tải lên Tiêu đề Quảng cáo"
+
+#: inc/customizer/advertisement.php:52
+msgid "Open Link in Different Tab"
+msgstr "Mở liên kết trong tab khác"
+
+#: inc/customizer/advertisement.php:34 inc/info.php:47
+msgid "Enable Header Advertisement"
+msgstr "Bật quảng cáo tiêu đề"
+
+#: inc/customizer/advertisement.php:16
+msgid "Header AD Settings"
+msgstr "Cài đặt quảng cáo tiêu đề"
+
+#: inc/customizer/advertisement.php:15
+msgid "Avertisement Settings"
+msgstr "Cài đặt Quảng Cáo"
+
+#: inc/custom-functions.php:340
+msgid "Comment"
+msgstr "Bình luận"
+
+#: inc/custom-functions.php:339
+msgid "POST COMMENT"
+msgstr "ĐĂNG BÌNH LUẬN"
+
+#: inc/custom-functions.php:328
+msgid "Website"
+msgstr "Website"
+
+#: inc/custom-functions.php:327
+msgid "Email*"
+msgstr "Email*"
+
+#: inc/custom-functions.php:326
+msgid "Name*"
+msgstr "Tên*"
+
+#: inc/custom-functions.php:45
+msgid "Primary"
+msgstr "Sơ cấp"
+
+#: comments.php:67
+msgid "Comments are closed."
+msgstr "Đã đóng bình luận."
+
+#: comments.php:54
+msgid "Newer Comments"
+msgstr "Các bình luận mới hơn"
+
+#: comments.php:53
+msgid "Older Comments"
+msgstr "Các bình luận cũ hơn"
+
+#: comments.php:50
+msgid "Comment navigation"
+msgstr "Điều hướng bình luận"
+
+#: comments.php:31
+msgctxt "comments title"
+msgid "%2$s Comments"
+msgid_plural "%1$s Comments"
+msgstr[0] "%1$s Ý kiến"
+
+#: 404.php:29
+msgid "homepage."
+msgstr "trang chủ."
+
+#: 404.php:28
+msgid "Sorry but the page you are looking for cannot be found. Take a moment and do a search below or start from our"
+msgstr "Xin lỗi, nhưng trang bạn đang tìm kiếm không thể tìm thấy. Dành ít phút và thực hiện tìm kiếm dưới đây hoặc bắt đầu từ"
+
+#: 404.php:27
+msgid "The requested page cannot be found"
+msgstr "Không thể tìm thấy trang yêu cầu"
+
+#: 404.php:26
+msgid "404!"
+msgstr "404!"
+
+#. Author URI of the plugin/theme
+msgid "http://raratheme.com/"
+msgstr "http://raratheme.com/"
+
+#. Author of the plugin/theme
+msgid "Rara Themes"
+msgstr "Rara Themes"
+
+#. Theme URI of the plugin/theme
+msgid "http://raratheme.com/wordpress-themes/fluid-magazine/"
+msgstr "http://raratheme.com/wordpress-themes/fluid-magazine/"
